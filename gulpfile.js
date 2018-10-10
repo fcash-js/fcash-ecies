@@ -1,6 +1,6 @@
 'use strict';
 
-var gulp_bitcore = require('bitcore-build');
+var gulp_fcore = require('fcash-build');
 
-gulp_bitcore('ecies');
+gulp_fcore('ecies');
 

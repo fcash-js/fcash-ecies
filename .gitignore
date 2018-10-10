@@ -29,5 +29,5 @@ node_modules
 
 
 tests.js
-bitcore-ecies.js
-bitcore-ecies.min.js
+fcash-ecies.js
+fcash-ecies.min.js

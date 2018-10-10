@@ -1,7 +1,7 @@
 {
-  "name": "bitcore-ecies",
+  "name": "fcash-ecies",
   "version": "1.0.3",
-  "description": "ECIES implemented for Bitcore.",
+  "description": "ECIES implemented for Fcash.",
   "main": "index.js",
   "directories": {
     "test": "test"
@@ -14,25 +14,25 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/bitpay/bitcore-ecies.git"
+    "url": "https://github.com/fcash-project/fcash-ecies.git"
   },
   "keywords": [
     "bitcoin",
-    "bitcore",
+    "fcore",
     "ecies",
     "crypto",
     "cryptography",
     "encryption"
   ],
-  "author": "BitPay",
+  "author": "Fcash",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bitpay/bitcore-ecies/issues"
+    "url": "https://github.com/fcash-project/fcash-ecies/issues"
   },
-  "homepage": "https://github.com/bitpay/bitcore-ecies",
+  "homepage": "https://github.com/fcash-project/fcash-ecies",
   "devDependencies": {
     "assert": "^1.1.2",
-    "bitcore-build": "git://github.com/bitpay/bitcore-build.git",
+    "fcash-build": "git://github.com/fcash-project/fcash-build.git",
     "brfs": "^1.2.0",
     "browserify": "^8.1.0",
     "chai": "~1.10.0",
@@ -40,6 +40,6 @@
   },
   "dependencies": {
     "aes": "^0.1.0",
-    "bitcore-lib": "^0.14.0"
+    "fcash-lib": "^0.14.0"
   }
 }

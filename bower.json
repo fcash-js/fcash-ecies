@@ -1,18 +1,18 @@
 {
-  "name": "bitcore-ecies",
-  "main": "./bitcore-ecies.min.js",
+  "name": "fcash-ecies",
+  "main": "./fcash-ecies.min.js",
   "version": "1.0.3",
-  "homepage": "https://github.com/bitpay/bitcore-ecies",
+  "homepage": "https://github.com/fcash-project/fcash-ecies",
   "authors": [
-    "BitPay"
+    "Fcash"
   ],
-  "description": "ECIES implemented for Bitcore.",
+  "description": "ECIES implemented for Fcash.",
   "moduleType": [
     "globals"
   ],
   "keywords": [
     "bitcoin",
-    "bitcore",
+    "fcore",
     "btc",
     "satoshi",
     "ecies"
