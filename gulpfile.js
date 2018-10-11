@@ -1,6 +1,6 @@
 'use strict';
 
-var gulp_fcore = require('fcash-build');
+var gulp_fcash_base = require('fcash-build');
 
-gulp_fcore('ecies');
+gulp_fcash_base('ecies');
 

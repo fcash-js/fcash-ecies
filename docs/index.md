@@ -1,7 +1,7 @@
 # ECIES
 Fcash implements [Elliptic Curve Integrated Encryption Scheme (ECIES)](http://en.wikipedia.org/wiki/Integrated_Encryption_Scheme), which is a public key encryption system that performs bulk encryption on data using a symmetric cipher and a random key.
 
-For more information refer to the [fcash-ecies](https://github.com/fcash-project/fcash-ecies) github repo.
+For more information refer to the [fcash-ecies](https://github.com/fcash-js/fcash-ecies) github repo.
 
 ## Installation
 ECIES is implemented as a separate module and you must add it to your dependencies:
@@ -21,11 +21,11 @@ bower install fcash-ecies --save
 ## Example
 
 ```javascript
-var fcore = require('fcash-lib');
+var fcashBase = require('fcash-lib');
 var ECIES = require('fcash-ecies');
 
-var alicePrivateKey = new fcore.PrivateKey();
-var bobPrivateKey = new fcore.PrivateKey();
+var alicePrivateKey = new fcashBase.PrivateKey();
+var bobPrivateKey = new fcashBase.PrivateKey();
 
 var data = new Buffer('The is a raw data example');
 

@@ -14,11 +14,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/fcash-project/fcash-ecies.git"
+    "url": "https://github.com/fcash-js/fcash-ecies.git"
   },
   "keywords": [
     "bitcoin",
-    "fcore",
+    "fcash-base",
     "ecies",
     "crypto",
     "cryptography",
@@ -27,12 +27,12 @@
   "author": "Fcash",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/fcash-project/fcash-ecies/issues"
+    "url": "https://github.com/fcash-js/fcash-ecies/issues"
   },
-  "homepage": "https://github.com/fcash-project/fcash-ecies",
+  "homepage": "https://github.com/fcash-js/fcash-ecies",
   "devDependencies": {
     "assert": "^1.1.2",
-    "fcash-build": "git://github.com/fcash-project/fcash-build.git",
+    "fcash-build": "git://github.com/fcash-js/fcash-build.git",
     "brfs": "^1.2.0",
     "browserify": "^8.1.0",
     "chai": "~1.10.0",

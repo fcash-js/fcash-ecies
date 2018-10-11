@@ -2,7 +2,7 @@
   "name": "fcash-ecies",
   "main": "./fcash-ecies.min.js",
   "version": "1.0.3",
-  "homepage": "https://github.com/fcash-project/fcash-ecies",
+  "homepage": "https://github.com/fcash-js/fcash-ecies",
   "authors": [
     "Fcash"
   ],
@@ -12,7 +12,7 @@
   ],
   "keywords": [
     "bitcoin",
-    "fcore",
+    "fcash-base",
     "btc",
     "satoshi",
     "ecies"
