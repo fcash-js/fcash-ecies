@@ -1,6 +1,6 @@
 {
   "name": "fcash-ecies",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "ECIES implemented for Fcash.",
   "main": "index.js",
   "directories": {
